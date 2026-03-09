@@ -2,9 +2,7 @@
 
 # Hey, I'm Amani 👋
 
-### 💻 Full-Stack Engineer passionate about building useful software, automation systems, and AI-powered tools.
-
-I enjoy working with modern web technologies, contributing to open-source projects, and building tools that solve real-world problems.
+### ⚡ Full-Stack Engineer &nbsp;·&nbsp; 🧠 AI & Automation Builder &nbsp;·&nbsp; 🌍 Remote-First
 
 </div>
 
@@ -40,7 +38,7 @@ Currently contributing to **open source** and looking for **remote engineering o
 
 ### 🚀 What I'm Building
 
-- 🗂️ **[TaskFlow](#)** — Fullstack task manager with boards, priorities & auth *(React + Node.js + PostgreSQL)*
+- 🗂️ **[TaskFlow](https://taskflow-frontend-brown.vercel.app)** — Fullstack task manager with boards, priorities & auth *(Next.js + Node.js + SQLite)* · [Live Demo](https://taskflow-frontend-brown.vercel.app) · [Code](https://github.com/justepaix/taskflow)
 - 🤖 Contributing to **[Mautic](https://github.com/mautic/mautic)** — open source marketing automation used by 200k+ orgs
 - 📊 Exploring **sports analytics** and data-driven web apps
 
